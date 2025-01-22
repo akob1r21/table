@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+.header{
+    width: 1200px ;
+    margin: auto;
+    padding: 25px 0;
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    font-size: 18px;
+}
+.yakm{
+    width: 35%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.yakm select{
+  border: none;
+  outline: none;
+  background-color: gray;
+  padding: 5px;
+  border-radius: 5px;
+}
+.search{
+    width: 55%;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border: 1px solid black;
+    padding: 5px 10px ;
+    border-radius: 5px; 
+}
+.header button{
+    padding: 10px 25px;
+    background-color: #624DE3;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
