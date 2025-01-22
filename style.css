@@ -40,3 +40,22 @@ p{
     border-radius: 5px;
     color: white;
 }
+.all{
+    width: 1200px;
+    margin: 15px auto;
+    display: grid;
+    grid-template-columns: 9% 10% 13% 12% 10% 14% 8% 10%;
+    grid-template-rows: repeat(10,50px);
+    justify-content: space-between;
+    align-items: center;
+    justify-items: startgitn;
+    
+}
+.yak{
+   
+}
+.du{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
