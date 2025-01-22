@@ -44,15 +44,20 @@ p{
     width: 1200px;
     margin: 15px auto;
     display: grid;
-    grid-template-columns: 9% 10% 13% 12% 10% 14% 8% 10%;
+    grid-template-columns: 9% 10% 13% 9% 7% 14% 8% 7%;
     grid-template-rows: repeat(10,50px);
     justify-content: space-between;
     align-items: center;
     justify-items: startgitn;
     
 }
-.yak{
-   
+.yak div{
+   background-color: #EBF9F1;
+   color:  #1F9254;
+   text-align: center;
+   padding: 5px 0; 
+   border-radius: 10px;
+
 }
 .du{
     display: flex;
