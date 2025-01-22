@@ -45,7 +45,7 @@ p {
   margin: 15px auto;
   display: grid;
   grid-template-columns: 7% 10% 13% 9% 7% 12% 8% 7%;
-  grid-template-rows: repeat(10, 50px);
+  grid-template-rows: repeat(11, 50px);
   justify-content: space-between;
   align-items: center;
   justify-items: startgitn;
