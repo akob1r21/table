@@ -64,9 +64,9 @@ p {
   padding: 5px 0;
   border-radius: 10px;
 }
-.chor{
-  background-color: #FBE7E8 !important;
-  color: #A30D11 !important;
+.chor {
+  background-color: #fbe7e8 !important;
+  color: #a30d11 !important;
   text-align: center;
   padding: 5px 0;
   border-radius: 10px;
@@ -75,4 +75,27 @@ p {
   display: flex;
   gap: 15px;
   align-items: center;
+}
+.last {
+  max-width: 1200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin: auto;
+}
+.btn {
+  padding: 7px 12px;
+  background-color: #624de3;
+  color: white;
+  border-radius: 5px;
+}
+.btn2 {
+  padding: 7px 12px;
+  background-color: #e0e0e0;
+  border-radius: 5px;
+}
+.dark , .search{
+  color: grey;
+  gap: 10px;
 }
