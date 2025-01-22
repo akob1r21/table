@@ -57,14 +57,20 @@ p {
   padding: 5px 0;
   border-radius: 10px;
 }
-.se{
-    background-color: #FEF2E5 !important;
-    color:  #CD6200 !important;
-    text-align: center;
-    padding: 5px 0; 
-    border-radius: 10px;
- 
- }
+.se {
+  background-color: #fef2e5 !important;
+  color: #cd6200 !important;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 10px;
+}
+.chor{
+  background-color: #FBE7E8 !important;
+  color: #A30D11 !important;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 10px;
+}
 .du {
   display: flex;
   gap: 15px;
